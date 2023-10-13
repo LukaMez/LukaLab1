@@ -1,0 +1,5 @@
+pip install pylint
+python -m unittest test_app.py & python lint_app.py
+python lint.py
+pip install flake8
+
